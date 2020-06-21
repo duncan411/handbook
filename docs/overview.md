@@ -21,4 +21,6 @@ Before we dive in, here are a quick code of conduct to keep in mind:
 
 With that, let’s learn about the Raid Guild!
 
-_Note: Is there something you don’t see in the Handbook that you have questions about? Open an issue here to let us know what we should add!_
+_Note: Is there something you don’t see in the Handbook that you have questions about? Open an issue <a href="https://github.com/manolingam/handbook/issues/new">here</a> to let us know what we should add!_
+
+Or Click "Edit this page" below to propose an edit.
